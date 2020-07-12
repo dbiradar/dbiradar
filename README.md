@@ -20,8 +20,6 @@ Experience working with cross-functional teams on test driven development and pa
 Technologies: Dynamic web desktop, tablet and mobile cross-browser development, PHP, JavaScript, HTML5, CSS3, SQL, Java, API Integrations, Test Driven Development, various development frameworks and third-party libraries.
 
 
-Education: Bachelors (Honors)
-
-Major: Computer Science
-
-Work Authorization: US Citizenship
+Education: Bachelors (Honors)<br/>
+Major: Computer Science<br/>
+Work Authorization: US Citizenship<br/>
