@@ -21,5 +21,7 @@ Technologies: Dynamic web desktop, tablet and mobile cross-browser development, 
 
 
 Education: Bachelors (Honors)
+
 Major: Computer Science
+
 Work Authorization: US Citizenship
